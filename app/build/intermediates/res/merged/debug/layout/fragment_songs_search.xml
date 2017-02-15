@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="@dimen/width_frame_search"
+        android:layout_height="@dimen/height_frame_search"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="@dimen/width_textsize_edit_recycler_search"
+        android:layout_marginRight="@dimen/width_textsize_edit_recycler_search" >
+
+        <EditText
+            android:id="@+id/et_etdit_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_et_search"
+            android:gravity="center_vertical"
+            android:hint="请输入关键字"
+            android:paddingLeft="@dimen/width_textsize_edit_recycler_search"
+            android:singleLine="true"
+            android:textSize="@dimen/width_textsize_edit_recycler_search" />
+
+        <RelativeLayout
+            android:id="@+id/rl_edit_recyclerview_cancel"
+            android:layout_width="@dimen/width_edit_recycler_search_cancel_frame"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:visibility="gone" >
+
+            <View
+                android:layout_width="@dimen/width_edit_recycler_search_cancel"
+                android:layout_height="@dimen/width_edit_recycler_search_cancel"
+                android:layout_centerInParent="true"
+                android:background="@drawable/search_cancel" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_songs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null" >
+    </ListView>
+
+</LinearLayout>

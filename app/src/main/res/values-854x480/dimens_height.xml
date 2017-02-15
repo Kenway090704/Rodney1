@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="height_music_item">73px</dimen>
+    <dimen name="height_loading_earth">1227px</dimen>
+    <dimen name="height_loading_surper">540px</dimen>
+    <dimen name="margintop_loading_earth">-408px</dimen>
+    <dimen name="margintop_loading_logo">30px</dimen>
+    <dimen name="margintop_loading_surper">30px</dimen>
+    <dimen name="height_title_bg">70px</dimen>
+    <dimen name="height_creation_title">35px</dimen>
+    <dimen name="height_navigation">62px</dimen>
+    <dimen name="height_home_logo">85px</dimen>
+    <dimen name="height_home_title">70px</dimen>
+    <dimen name="height_home_introduce">302px</dimen>
+    <dimen name="height_home_point_contaniner">16px</dimen>
+    <dimen name="height_home_point">12px</dimen>
+    <dimen name="height_home_button_music">128px</dimen>
+    <dimen name="height_home_button_create">125px</dimen>
+    <dimen name="height_home_button_library">127px</dimen>
+    <dimen name="height_home_button_favorite">127px</dimen>
+    <dimen name="height_loading_logo">144px</dimen>
+    <dimen name="height_home_button_account">120px</dimen>
+    <dimen name="height_home_button_story">136px</dimen>
+    <dimen name="height_common_music_frame">85px</dimen>
+    <dimen name="height_common_music_icon">66px</dimen>
+    <dimen name="height_common_music_pannel">106px</dimen>
+    <dimen name="textSize_common_music_name">26px</dimen>
+    <dimen name="textSize_common_music_type">21px</dimen>
+    <dimen name="height_music_home_title">42px</dimen>
+    <dimen name="margintop_music_item">6px</dimen>
+    <dimen name="height_frame_search">54px</dimen>
+    <dimen name="height_title_common">35px</dimen>
+    <dimen name="height_title_divide">4px</dimen>
+    <dimen name="height_item_common">88px</dimen>
+    <dimen name="height_item_divide">13px</dimen>
+    <dimen name="height_item_pic">35px</dimen>
+    <dimen name="height_desc">266px</dimen>
+    <dimen name="height_common_music_icon_frame">70px</dimen>
+    <dimen name="height_item_comm">55px</dimen>
+
+</resources>

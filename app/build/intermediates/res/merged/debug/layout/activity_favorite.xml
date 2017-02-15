@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_home_main"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8.2"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_home_title" >
+
+            <ImageView
+                android:id="@+id/iv_title"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/ic_home_title" >
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/iv_music_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/width_margin_left"
+                android:src="@drawable/ic_common_back" />
+
+            <ImageView
+                android:id="@+id/iv_music_title"
+                android:layout_width="@dimen/width_music_home_title"
+                android:layout_height="@dimen/height_music_home_title"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_favorite_title" >
+            </ImageView>
+        </RelativeLayout>
+
+        <RadioGroup
+            android:id="@+id/rg_titles"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_navigation"
+            android:orientation="horizontal" >
+
+            <include
+                android:id="@+id/radio_music"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                layout="@layout/textradio" />
+
+            <include
+                android:id="@+id/radio_story"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                layout="@layout/textradio" />
+        </RadioGroup>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_music"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </android.support.v4.view.ViewPager>
+    </LinearLayout>
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        layout="@layout/item_common_music_state"
+        android:background="@color/test" />
+
+</LinearLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_title_bg"
+        android:background="@drawable/ic_common_bg" >
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/width_margin_left"
+            android:src="@drawable/ic_common_back" />
+
+        <ImageView
+            android:layout_width="@dimen/width_title_common"
+            android:layout_height="@dimen/height_title_common"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_account_titletxt" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_title_divide"
+        android:background="#EEEE00" />
+
+    <LinearLayout
+        android:id="@+id/ll_account"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_item_common"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="@dimen/width_item_pic"
+            android:layout_height="@dimen/height_item_pic"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/width_margin"
+            android:src="@drawable/ic_account_icon" />
+
+        <TextView
+            android:id="@+id/tv_myaccount"
+            android:layout_width="@dimen/width_item"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/width_margin"
+            android:text="@string/label_account"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_common_row" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_item_divide" />
+
+    <LinearLayout
+        android:id="@+id/ll_set"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_item_common"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="@dimen/width_item_pic"
+            android:layout_height="@dimen/height_item_pic"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/width_margin"
+            android:src="@drawable/ic_set_icon" />
+
+        <TextView
+            android:layout_width="@dimen/width_item"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/width_margin"
+            android:text="@string/label_set"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_common_row" />
+    </LinearLayout>
+
+</LinearLayout>

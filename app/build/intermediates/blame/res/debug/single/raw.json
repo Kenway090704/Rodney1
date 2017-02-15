@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/raw/bgsong02.mp3",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/raw/bgsong02.mp3"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/raw/ararm.mp3",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/raw/ararm.mp3"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/raw/rondey_background.wav",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/raw/rondey_background.wav"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/raw/bgsong04.mp3",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/raw/bgsong04.mp3"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/raw/bgsong01.mp3",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/raw/bgsong01.mp3"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/raw/bgsong03.mp3",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/raw/bgsong03.mp3"
+    }
+]

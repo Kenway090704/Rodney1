@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="@dimen/width_edit_recycler_search"
+        android:layout_height="@dimen/width_height_edit_recycler_search"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/width_heightmargin_story" >
+
+        <EditText
+            android:id="@+id/et_etdit_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_et_search"
+            android:gravity="center_vertical"
+            android:hint="请输入关键字"
+            android:paddingLeft="@dimen/width_textsize_edit_recycler_search"
+            android:singleLine="true"
+            android:textSize="@dimen/width_textsize_edit_recycler_search" />
+
+        <RelativeLayout
+            android:id="@+id/rl_edit_recyclerview_cancel"
+            android:layout_width="@dimen/width_edit_recycler_search_cancel_frame"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:visibility="gone" >
+
+            <View
+                android:layout_width="@dimen/width_edit_recycler_search_cancel"
+                android:layout_height="@dimen/width_edit_recycler_search_cancel"
+                android:layout_centerInParent="true"
+                android:background="@drawable/search_cancel" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_edit_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

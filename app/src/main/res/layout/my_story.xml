@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_my_story"
+    android:layout_width="@dimen/width_story_frame"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/rl_my_story_bg"
+        android:layout_width="@dimen/width_story_frame"
+        android:layout_height="@dimen/width_story_frame"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/width_heightmargin_story" >
+
+        <ImageView
+            android:id="@+id/iv_my_story_frame"
+            android:layout_width="@dimen/width_story_frame"
+            android:layout_height="@dimen/width_story_frame"
+            android:layout_centerInParent="true"
+            android:background="@drawable/bg_my_story" />
+
+        <View
+            android:id="@+id/v_my_story_cover"
+            android:layout_width="@dimen/width_story_cover"
+            android:layout_height="@dimen/width_story_cover"
+            android:layout_centerInParent="true"
+            android:background="@drawable/cover_grey_story"
+            android:visibility="gone" >
+        </View>
+
+        <RelativeLayout
+            android:id="@+id/rl_my_story_delete"
+            android:layout_width="@dimen/width_my_story_delete_frame"
+            android:layout_height="@dimen/width_my_story_delete_frame"
+            android:layout_alignParentRight="true"
+            android:visibility="gone" >
+
+            <View
+                android:layout_width="@dimen/width_my_story_delete"
+                android:layout_height="@dimen/width_my_story_delete"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/delete" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_my_story_bg"
+        android:paddingBottom="@dimen/width_heightmargin_story"
+        android:paddingTop="@dimen/width_heightmargin_story" >
+
+        <EditText
+            android:id="@+id/et_my_story_title"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/width_my_story_title_et_height"
+            android:background="@drawable/selector_bg_edit_story_name"
+            android:gravity="center"
+            android:paddingBottom="0dp"
+            android:paddingTop="0dp"
+            android:singleLine="true"
+            android:textColor="#1479BD"
+            android:textSize="@dimen/width_textsize_story" />
+    </RelativeLayout>
+
+</RelativeLayout>

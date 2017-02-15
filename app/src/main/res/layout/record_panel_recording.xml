@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_record_panel_recording"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="visible" >
+
+    <com.iwit.rodney.ui.view.TimeProgressTextView
+        android:id="@+id/tv_record_panel_recording_progress"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/width_height_record_panel_top"
+        android:background="@drawable/bg_record_time_bar"
+        android:gravity="center"
+        android:text="01:52"
+        android:textColor="@android:color/white" />
+
+    <LinearLayout
+        android:id="@+id/rl_record_panel_bottom_recording"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/width_height_record_panel_bottom"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rl_record_panel_recording_listen"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <CheckBox
+                android:id="@+id/v_record_panel_bottom_listen"
+                android:layout_width="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_height="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/width_height_top_margin_record_panel_button"
+                android:background="@drawable/selector_btn_record_listen"
+                android:button="@null"
+                android:clickable="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/v_record_panel_bottom_listen"
+                android:layout_centerInParent="true"
+                android:text="试听" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_record_panel_recording_rerecord"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <View
+                android:id="@+id/v_record_panel_bottom_rerecord"
+                android:layout_width="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_height="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/width_height_top_margin_record_panel_button"
+                android:background="@drawable/selector_btn_record_rerecord" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/v_record_panel_bottom_rerecord"
+                android:layout_centerInParent="true"
+                android:text="重录" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_record_panel_recording_play"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <CheckBox
+                android:id="@+id/v_record_panel_bottom_play"
+                android:layout_width="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_height="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/width_height_top_margin_record_panel_button"
+                android:background="@drawable/selector_btn_record_record"
+                android:button="@null"
+                android:clickable="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/v_record_panel_bottom_play"
+                android:layout_centerInParent="true"
+                android:text="录音/继续录制" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_record_panel_recording_save"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <View
+                android:id="@+id/v_record_panel_bottom_save"
+                android:layout_width="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_height="@dimen/width_edge_length_record_panel_bottom_record"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/width_height_top_margin_record_panel_button"
+                android:background="@drawable/selector_btn_record_save" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/v_record_panel_bottom_save"
+                android:layout_centerInParent="true"
+                android:text="保存" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

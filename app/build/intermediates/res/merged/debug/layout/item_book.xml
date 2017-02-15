@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rl_book_view"
+        android:layout_width="@dimen/width_width_book"
+        android:layout_height="@dimen/width_height_book"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/width_height_loading_view" >
+
+        <ImageView
+            android:id="@+id/iv_book_picture"
+            android:layout_width="@dimen/width_width_book"
+            android:layout_height="@dimen/width_height_book"
+            android:layout_centerInParent="true" />
+
+        <View
+            android:id="@+id/view_book_cover"
+            android:layout_width="@dimen/width_width_book"
+            android:layout_height="@dimen/width_height_book"
+            android:layout_centerInParent="true"
+            android:background="@drawable/cover_book" />
+
+        <com.iwit.rodney.ui.view.DownloadControlView
+            android:id="@+id/dcv_book"
+            android:layout_width="@dimen/width_book_states"
+            android:layout_height="@dimen/width_book_states"
+            android:layout_centerInParent="true" />
+
+        <com.iwit.rodney.ui.view.LoadingView
+            android:id="@+id/loadview_book"
+            android:layout_width="@dimen/width_width_loading_view"
+            android:layout_height="@dimen/width_height_loading_view"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/width_bottom_margin_loading_view" />
+
+        <ImageView
+            android:id="@+id/iv_book_mask"
+            android:layout_width="@dimen/width_width_book"
+            android:layout_height="@dimen/width_height_book"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_book_meng"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_book_delete"
+            android:layout_width="@dimen/width_book_states"
+            android:layout_height="@dimen/width_book_states"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_book_delete"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_book_name"
+        android:layout_width="@dimen/width_width_book"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/width_height_loading_view"
+        android:gravity="center_horizontal|bottom"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="彼得的神器魔毯"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/width_height_loading_view" />
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cover_grey_dialog" >
+
+    <LinearLayout
+        android:layout_width="@dimen/width_width_dialog_save"
+        android:layout_height="@dimen/width_height_dialog_save"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg_record_save"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/et_dialog_save_name"
+            android:layout_width="@dimen/width_width_et_record_save"
+            android:layout_height="@dimen/width_height_et_record_save"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/width_height_top_margin_et_record_save"
+            android:background="@drawable/bg_et_save_enter_name"
+            android:inputType="text"
+            android:maxLength="20"
+            android:paddingLeft="@dimen/width_leftpadding_dialog_save_et_name"
+            android:singleLine="true"
+            android:textSize="@dimen/width_textsize_dialog_save_et_name" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/width_height_dialog_save_btns"
+            android:layout_marginTop="@dimen/width_height_top_margin_dialog_save_btns" >
+
+            <Button
+                android:id="@+id/btn_dialog_save_save"
+                android:layout_width="@dimen/width_width_dialog_save_btns"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/width_margins_dialog_save_btns"
+                android:background="@drawable/btn_record_sure_save" />
+
+            <Button
+                android:id="@+id/btn_dialog_save_cancel"
+                android:layout_width="@dimen/width_width_dialog_save_btns"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/width_margins_dialog_save_btns"
+                android:background="@drawable/btn_record_cancel" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/ic_ararm1"
+        android:duration="80">
+    </item>
+    <item
+        android:drawable="@drawable/ic_ararm2"
+        android:duration="80">
+    </item>
+    <item
+        android:drawable="@drawable/ic_ararm3"
+        android:duration="80">
+    </item>
+    <item
+        android:drawable="@drawable/ic_ararm4"
+        android:duration="80">
+    </item>
+</animation-list>

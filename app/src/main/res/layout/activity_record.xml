@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_record_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/record_yellow"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_title_bg"
+        android:background="@drawable/bg_navigation" >
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/width_margin_left"
+            android:src="@drawable/ic_common_back" />
+
+        <ImageView
+            android:id="@+id/iv_record_title"
+            android:layout_width="@dimen/width_width_title_record"
+            android:layout_height="@dimen/width_height_title_record"
+            android:layout_centerInParent="true"
+            android:src="@drawable/title_record"
+            tools:ignore="ContentDescription" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/sv_record_lyric"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <EditText
+                android:id="@+id/et_record_lrc_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/width_textsize_record_lrc_title"
+                android:background="@null"
+                android:enabled="false"
+                android:gravity="center"
+                android:hint="请输入标题"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="@dimen/width_textsize_record_lrc_title" />
+
+            <EditText
+                android:id="@+id/et_record_lrc_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/width_textsize_record_lrc_title"
+                android:background="@null"
+                android:enabled="false"
+                android:hint="请输入内容"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="@dimen/width_textsize_record_lrc_content" />
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/rl_record_panel_area"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/width_height_record_panel" >
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            layout="@layout/record_panel_ready" />
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            layout="@layout/record_panel_recording" />
+    </RelativeLayout>
+
+</LinearLayout>

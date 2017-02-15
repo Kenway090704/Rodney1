@@ -1,0 +1,846 @@
+[
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_regist_titletxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_regist_titletxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_account_confirm.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_account_confirm.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_save_normal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_save_normal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_active_code.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_active_code.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_listen_disable.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_listen_disable.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_home_favorite.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_home_favorite.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_20.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_20.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_set_aboutpic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_set_aboutpic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_17.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_17.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_re_record_pressed.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_re_record_pressed.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_3.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_3.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/item_story_record.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/item_story_record.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/circle_blue.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/circle_blue.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/circle_red.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/circle_red.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_logo.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_home_logo.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/frame_record_story.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/frame_record_story.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_re_record_normal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_re_record_normal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cd1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_cd1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_register_register.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_register_register.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pwd_findtxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_pwd_findtxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_re_record_disable.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_re_record_disable.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_listen_pressed.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_listen_pressed.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_title.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_home_title.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/listen_ic_downloadprogress_white.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/listen_ic_downloadprogress_white.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_15.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_15.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account_bg_pop.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/account_bg_pop.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/download_book.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/download_book.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_et_save_enter_name.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_et_save_enter_name.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_title.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_favorite_title.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_ararm3.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_ararm3.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/item_record_image_song_record.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/item_record_image_song_record.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/search_cancel.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/search_cancel.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_point_1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_home_point_1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_save_disable.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_save_disable.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_seekbar_thum.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_seekbar_thum.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_cancel.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_cancel.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_creation.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_creation.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_loading_surper.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_loading_surper.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_emailtxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_emailtxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_home_account.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_home_account.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_play_disable.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_play_disable.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_home_create.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_home_create.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_type_logo1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_type_logo1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_story_3.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_story_3.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_24.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_24.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_5.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_5.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_privatetxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_privatetxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_introduce.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_home_introduce.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/activate_line_edit.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/activate_line_edit.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_home_main.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_home_main.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_next.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_next.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account_bn_blue_short_2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/account_bn_blue_short_2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_active_finish.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_active_finish.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_save_pressed.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_save_pressed.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account_bn_orange_short_1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/account_bn_orange_short_1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_song_2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_song_2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/item_record_image_song_creation.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/item_record_image_song_creation.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_set_sent_press.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_set_sent_press.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_textradio_checked.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_textradio_checked.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_active.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_active.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_set_updatepic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_set_updatepic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cover_grey_dialog.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/cover_grey_dialog.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_random.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_random.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_emailpic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_emailpic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_12.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_12.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_song_1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_song_1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_download.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_download.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_type_logo.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_type_logo.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/title_creation.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/title_creation.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_9.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_9.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_account_actived.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_account_actived.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_login_pwdpic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_login_pwdpic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_item_white.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_item_white.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_single.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_single.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_my_story.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_my_story.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_song_record.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_song_record.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_record_save.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_record_save.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_introduce1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_home_introduce1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_point_2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_home_point_2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_selectrow.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_selectrow.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_bg_music.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_bg_music.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_regist_age.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_regist_age.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_set_sent_normal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_set_sent_normal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_play_title.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_play_title.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_icon.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_icon.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_music_icon_default.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_music_icon_default.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_regist_grilnormal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_regist_grilnormal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_close.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_close.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_regist_boyselect.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_regist_boyselect.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_listen_normal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_listen_normal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_record_lyric.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_record_lyric.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_row.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_row.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_del.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_del.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_introduce2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_home_introduce2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_background_set.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_background_set.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_pause.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_pause.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_19.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_19.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_13.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_13.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_ararm1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_ararm1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_namepic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_namepic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_bg.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_bg.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_loading_earth.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_loading_earth.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_back.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_back.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_book_meng.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_book_meng.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/resume_book.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/resume_book.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_set_icon.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_set_icon.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/radio_checked.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/radio_checked.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_22.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_22.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_titletxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_titletxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_music_background.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_music_background.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_proier.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_proier.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_textsize_dec.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_textsize_dec.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_item_fav_none.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_item_fav_none.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_pwd_check.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_pwd_check.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_home_back.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_home_back.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_regist_numpic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_regist_numpic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account_bn_blue_short_1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/account_bn_blue_short_1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_pwd_confirm.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_pwd_confirm.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_home_title.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_home_title.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/pause_book.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/pause_book.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_regist_grilselect.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_regist_grilselect.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_et_search.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_et_search.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cd2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_cd2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_loading_logo.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_loading_logo.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_record_time_bar.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_record_time_bar.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_ararm4.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_ararm4.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_16.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_16.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_21.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_21.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_aph_logo.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_aph_logo.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/title_library.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/title_library.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_item_download.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_item_download.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/listen_ic_downloadprogress_red.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/listen_ic_downloadprogress_red.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account_edit_short.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/account_edit_short.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_18.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_18.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_story_title.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_story_title.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_4.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_4.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_item_blue.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_item_blue.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_loading_main.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_loading_main.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_login_login.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_login_login.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/circle_yellow.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/circle_yellow.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_story_creation.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_story_creation.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_ararm2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_ararm2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/radio_normal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/radio_normal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_story_4.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_story_4.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/delete.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_14.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_14.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_23.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_23.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/title_record.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/title_record.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_login_phonepic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_login_phonepic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_introduce.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_introduce.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_play.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_play.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_song_creation.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_song_creation.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_home_story.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_home_story.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_8.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_8.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_regist_name.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_regist_name.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_music_pause.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_music_pause.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cover_book.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/cover_book.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_blue_light.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_blue_light.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_title.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_title.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_open.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_open.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_set_exitpic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_set_exitpic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_11.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_11.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_music_prior.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_music_prior.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account_bn_orange_short_2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/account_bn_orange_short_2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_account_unactived.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_account_unactived.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_music_user_frame.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_music_user_frame.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cd_frame.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_cd_frame.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_story_record.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_story_record.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_textsize_inc.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_textsize_inc.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_dialog_record_bg_music.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_dialog_record_bg_music.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_home_library.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_home_library.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_regist_boynormal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_regist_boynormal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_home_music.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_home_music.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_navigation.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_navigation.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/item_story_creation.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/item_story_creation.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_item_fav.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_item_fav.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_song_3.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_song_3.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_10.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_10.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_set_suggestpic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_set_suggestpic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_play_normal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_play_normal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_7.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_7.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_register_getnum.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_register_getnum.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_login_titletxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_login_titletxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_story_1.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_story_1.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_record.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_record.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/circle_green.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/circle_green.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_all.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_all.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_book_delete.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_book_delete.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/play_book.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/play_book.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_play_pressed.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_play_pressed.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_default.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_default.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_song_4.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_song_4.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pwd_titletxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_pwd_titletxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_music_play.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_music_play.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_introduce_6.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_introduce_6.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_record_sure_save.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/btn_record_sure_save.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_play_favorite.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_play_favorite.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_set_titletxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_set_titletxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_common_music_next.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_common_music_next.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cover_grey_story.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/cover_grey_story.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_textradio_normal.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/bg_textradio_normal.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_music_lrc_story_2.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_music_lrc_story_2.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_icon.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_icon.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_play.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_play.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_nametxt.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_account_nametxt.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mic.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_mic.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cd3.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable-xxhdpi/ic_cd3.png"
+    }
+]

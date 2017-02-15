@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_record_story"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/rl_record_story_bg"
+        android:layout_width="@dimen/width_story_frame"
+        android:layout_height="@dimen/width_story_frame"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/width_heightmargin_story" >
+
+        <ImageView
+            android:id="@+id/iv_story"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <View
+            android:id="@+id/v_record_story_frame"
+            android:layout_width="@dimen/width_story_frame"
+            android:layout_height="@dimen/width_story_frame"
+            android:layout_centerInParent="true"
+            android:background="@drawable/frame_record_story" >
+        </View>
+
+        <View
+            android:id="@+id/v_record_story_cover"
+            android:layout_width="@dimen/width_story_cover"
+            android:layout_height="@dimen/width_story_cover"
+            android:layout_centerInParent="true"
+            android:background="@drawable/cover_grey_story" >
+        </View>
+
+        <ImageView
+            android:layout_width="@dimen/width_width_record_story_ic_mic"
+            android:layout_height="@dimen/width_height_record_story_ic_mic"
+            android:layout_centerInParent="true"
+            android:background="@drawable/ic_mic"
+            tools:ignore="ContentDescription" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_record_story_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_record_story_bg"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="@dimen/width_heightmargin_story"
+        android:paddingTop="@dimen/width_heightmargin_story"
+        android:textColor="#1479BD"
+        android:textSize="@dimen/width_textsize_story" />
+
+</RelativeLayout>

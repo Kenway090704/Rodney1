@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/white">
+    <RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_title_bg"  
+    android:background="@drawable/ic_common_bg"
+        >
+         <ImageView
+    android:id="@+id/iv_back" 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"  
+    android:src="@drawable/ic_common_back"
+    android:layout_centerVertical="true" 
+    android:layout_marginLeft="@dimen/width_margin_left"
+            />
+		<ImageView
+		    android:id="@+id/iv_title"
+            android:layout_width="@dimen/width_title_common"
+            android:layout_height="@dimen/height_title_common"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_account_nametxt"
+            />
+		
+        </RelativeLayout>
+	  <View 
+    android:layout_width="match_parent"
+     android:layout_height="@dimen/height_title_divide"  
+    android:background="#EEEE00"
+        />
+	    <LinearLayout
+	android:id="@+id/ll_account_name" 
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_item_common"  
+    android:background="@color/white" 
+    android:orientation="horizontal"
+    android:visibility="gone"
+        >
+       <ImageView 
+    android:layout_width="@dimen/width_item_pic"
+    android:layout_height="@dimen/height_item_pic" 
+    android:src="@drawable/ic_account_namepic"
+    android:layout_gravity="center_vertical"  
+    android:layout_marginLeft="@dimen/width_margin"  
+        />
+       <EditText
+    android:id="@+id/et_new_name" 
+    android:layout_height="match_parent"
+    android:layout_width="@dimen/width_item_et"    
+    android:hint="@string/hint_name_inputnew"
+    android:background="@null"
+    android:layout_marginLeft="@dimen/width_margin"
+    android:singleLine="true"
+           />
+       </LinearLayout>
+       <LinearLayout
+	android:id="@+id/ll_account_email" 
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_item_common"  
+    android:background="@color/white" 
+    android:orientation="horizontal"
+        >
+       <ImageView 
+    android:layout_width="@dimen/width_item_pic"
+    android:layout_height="@dimen/height_item_pic" 
+    android:src="@drawable/ic_account_emailpic"
+    android:layout_gravity="center_vertical"  
+    android:layout_marginLeft="@dimen/width_margin"  
+        />
+       <EditText
+    android:id="@+id/et_new_email" 
+    android:layout_height="match_parent"
+    android:layout_width="@dimen/width_item_et"    
+    android:hint="@string/hint_email_inputnew"
+    android:background="@null"
+    android:layout_marginLeft="@dimen/width_margin"
+    android:singleLine="true"
+           />
+       </LinearLayout>
+	      <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_item_divide"  
+        > 
+       <ImageView 
+    android:layout_width="@dimen/width_item_et"
+    android:layout_height="wrap_content"
+    android:src="@drawable/ic_common_line"  
+	android:scaleType="fitXY"
+	android:layout_marginLeft="@dimen/width_margin_line"
+           />
+       
+       </LinearLayout>
+	        
+       
+	    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_item_common"  
+    android:background="@color/white" 
+    android:orientation="horizontal"
+     android:layout_marginTop="@dimen/height_item_divide"
+     android:gravity="center"
+        >
+
+	        <ImageView
+	            android:id="@+id/iv_confirm"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:scaleType="centerInside"
+	            android:src="@drawable/btn_account_confirm" />
+
+       </LinearLayout>
+       
+       
+</LinearLayout>

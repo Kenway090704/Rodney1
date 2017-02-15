@@ -1,0 +1,37 @@
+#s1项目的数据库 lw前缀表示listen world
+#(1)用户表 lw_user
+DROP TABLE IF EXISTS lw_user;
+CREATE TABLE IF NOT EXISTS lw_user(uid int primary key, name varchar(40),email varchar(30), phonenum varchar(20), restypes varchar(40),password varchar(20), iscurrent int default 0,nickname varchar(20),age int default 10,sex int default 0);	
+
+#(2)书籍语言对应表 lw_book_language
+DROP TABLE IF EXISTS lw_book_language;
+CREATE TABLE IF NOT EXISTS lw_book_language(id integer primary key AUTOINCREMENT, bid int, lid int, deleted int default 0);
+
+#(3)书籍表 lw_book
+DROP TABLE IF EXISTS lw_book;
+CREATE TABLE IF NOT EXISTS lw_book(bid int primary key, bname varchar(30), bfname varchar(20), size int, bdesc varchar(500), coverpic varchar(20), rackpic varchar(20), p1 varchar(20), p2 varchar(20), p3 varchar(20), p4 varchar(20),restype char, sid int, downloaded int default 0, deleted int default 0);
+
+#(4)音乐表 lw_music
+DROP TABLE IF EXISTS lw_music;	
+CREATE TABLE IF NOT EXISTS lw_music(mid varchar(10) primary key, mname varchar(30), mfname varchar(20), author varchar(30), performer varchar(30), mtype varchar(10), restype varchar(10), source varchar(10), f int, favourites int, coverpic varchar(20), lyric varchar(20), recsupport int , downloaded int default 0, deleted int default 0, isrecord int default 0, sort int default 1, ordinal int not NULL default 0);			
+
+#(5)音乐语言关系对应表 lw_music_language
+DROP TABLE IF EXISTS lw_music_language;
+CREATE TABLE IF NOT EXISTS lw_music_language(id integer primary key AUTOINCREMENT, mid varchar(10), lid int, deleted int);		   
+
+#(6)本地音乐表 lw_music_local
+DROP TABLE IF EXISTS lw_music_local;
+CREATE TABLE IF NOT EXISTS lw_music_local(id integer primary key AUTOINCREMENT, mid int, mname varchar(30), bfname varchar(20), url varchar(20),isrecord int default 0,lasttime date default (date('now', 'weekday 1')));	
+
+#(7)音乐类型表 lw_music_type
+DROP TABLE IF EXISTS lw_music_type;
+CREATE TABLE IF NOT EXISTS lw_music_type(id integer primary key AUTOINCREMENT, mtype int, typename varchar(40), lid int,mid varchar(40),deleted int default 0);
+
+#(8)录音表 record
+#DROP TABLE IF EXISTS lw_record;
+#CREATE TABLE IF NOT EXISTS lw_record(id integer primary key AUTOINCREMENT, mname varchar(30), coverpic varchar(20), lyric varchar(20), lid int);
+DROP TABLE IF EXISTS record;
+CREATE TABLE IF NOT EXISTS record(id integer primary key AUTOINCREMENT, name varchar(30) unique,lyric varchar(30),pic_name varchar(30));
+#(9)
+DROP TABLE IF EXISTS lw_music_account;
+CREATE TABLE IF NOT EXISTS lw_music_account(id integer primary key AUTOINCREMENT, mid varchar(10), uid int, deleted int,choose int);		   

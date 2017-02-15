@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/width_height_item_story"
+    android:layout_marginBottom="@dimen/width_13_on_720"
+    android:layout_marginLeft="@dimen/width_26_on_720"
+    android:layout_marginRight="@dimen/width_26_on_720"
+    android:layout_marginTop="@dimen/width_13_on_720"
+    android:background="@drawable/ic_music_item_white" >
+
+    <ImageView
+        android:id="@+id/iv_item_story_title"
+        android:layout_width="@dimen/width_edge_len_item_story_title_image"
+        android:layout_height="@dimen/width_edge_len_item_story_title_image"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/width_13_on_720"
+        android:src="@drawable/bg_my_story" />
+
+    <ImageView
+        android:id="@+id/iv_item_story_type"
+        android:layout_width="@dimen/width_width_item_story_type_image"
+        android:layout_height="@dimen/width_height_item_story_type_image"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/iv_item_story_title"
+        android:visibility="gone"
+        android:src="@drawable/ic_music_type_logo1" />
+
+    <TextView
+        android:id="@+id/tv_item_story_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/width_13_on_720"
+        android:layout_toRightOf="@+id/iv_item_story_type"
+        android:singleLine="true"
+        android:textSize="@dimen/textSize_common_music_name" 
+        android:textColor="@color/black"
+        android:text="旅行的意义" />
+
+    <ImageView
+        android:id="@+id/iv_item_story_mic"
+        android:layout_width="@dimen/width_width_item_story_mic_image"
+        android:layout_height="@dimen/width_height_item_story_mic_image"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/width_26_on_720"
+        android:src="@drawable/ic_mic" />
+
+    <ImageView
+        android:id="@+id/iv_item_story_play"
+        android:layout_width="@dimen/width_width_item_story_play_image"
+        android:layout_height="@dimen/width_height_item_story_play_image"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/width_26_on_720"
+        android:src="@drawable/ic_play"
+        android:visibility="gone" />
+
+</RelativeLayout>

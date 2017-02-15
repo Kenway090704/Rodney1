@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="width_textsize_record_lrc_title">28px</dimen>
+	<dimen name="width_textsize_record_lrc_content">25px</dimen>
+    <dimen name="width_home_button_music">117px</dimen>
+    <dimen name="width_home_button_create">108px</dimen>
+    <dimen name="width_home_button_library">126px</dimen>
+    <dimen name="width_home_button_favorite">109px</dimen>
+    <dimen name="marginlft_home_button">36px</dimen>
+    <dimen name="width_loading_logo">457px</dimen>
+    <dimen name="marginlft_home_button_spec_2">25px</dimen>
+    <dimen name="marginlft_home_button_spec_3">20px</dimen>
+    <dimen name="width_creation_title">197px</dimen>
+    <dimen name="width_loading_earth">1124px</dimen>
+    <dimen name="marginLeft_loading_surper">-320px</dimen>
+    <dimen name="marginTop_loading_surper">266px</dimen>
+    <dimen name="width_loading_surper">470px</dimen>
+    <dimen name="width_home_logo">342px</dimen>
+    <!--
+    <dimen name="width_loading_logo">444px</dimen>
+    <dimen name="width_home_button_music">104px</dimen>
+    <dimen name="width_home_button_create">120px</dimen>
+    <dimen name="width_home_button_library">114px</dimen>
+    <dimen name="marginlft_home_button_spec_2">21px</dimen>
+    <dimen name="marginlft_home_button">36px</dimen>
+    <dimen name="width_home_button_favorite">130px</dimen>
+    -->
+    <dimen name="width_home_button_story">142px</dimen>
+    <dimen name="width_home_button_account">126px</dimen>
+    <dimen name="width_common_music_frame">84px</dimen>
+    <dimen name="width_common_music_icon">66px</dimen>
+    <dimen name="marginleft_common_music_frame">10px</dimen>
+    <dimen name="width_common_music_button">45px</dimen>
+    <dimen name="marginleft_common_music_button">15px</dimen>
+    <dimen name="width_music_home_title">98px</dimen>
+    <dimen name="width_music_home_back">53px</dimen>
+    <dimen name="width_music_item">447px</dimen>
+    <dimen name="marginleft_common_music_icon">2px</dimen>
+    <dimen name="width_frame_search">456px</dimen>
+    <dimen name="width_textsize_edit_recycler_search">26px</dimen>
+    <dimen name="width_edit_recycler_search_cancel_frame">54px</dimen>
+    <dimen name="width_edit_recycler_search_cancel">28px</dimen>
+    <dimen name="width_music_play_prior">34px</dimen>
+    <dimen name="width_music_play_play">90px</dimen>
+    <dimen name="marginlft_home_button_2">26px</dimen>
+    <dimen name="marginlft_home_button_spec_1">7px</dimen>
+    <dimen name="width_home_title">342px</dimen>
+    <dimen name="width_home_button">104px</dimen>
+    <dimen name="width_story_frame">109px</dimen>
+    <dimen name="width_story_cover">102px</dimen>
+    <dimen name="width_width_record_story_ic_mic">38px</dimen>
+    <dimen name="width_height_record_story_ic_mic">62px</dimen>
+    <dimen name="width_heightmargin_story">17px</dimen>
+    <dimen name="width_textsize_story">15px</dimen>
+    <dimen name="width_edit_recycler_search">454px</dimen>
+    <dimen name="width_height_edit_recycler_search">54px</dimen>
+    <dimen name="width_my_story_delete_frame">44px</dimen>
+    <dimen name="width_my_story_delete">28px</dimen>
+    <dimen name="width_my_story_title_et_height">22px</dimen>
+    <dimen name="width_width_book">106px</dimen>
+    <dimen name="width_height_book">142px</dimen>
+    <dimen name="width_book_states">53px</dimen>
+    <dimen name="width_width_loading_view">102px</dimen>
+    <dimen name="width_height_loading_view">14px</dimen>
+    <dimen name="width_bottom_margin_loading_view">3px</dimen>
+    <dimen name="width_width_title_library">196px</dimen>
+    <dimen name="width_height_title_library">36px</dimen>
+    <dimen name="width_item_pic">35px</dimen>
+    <dimen name="width_item">382px</dimen>
+    <dimen name="width_item_et">400px</dimen>
+    <dimen name="width_margin">8px</dimen>
+    <dimen name="width_margin_line">48px</dimen>
+    <dimen name="width_margin_lefttxt">368px</dimen>
+    <dimen name="width_margin_lefttxt2">1840px</dimen>
+    <dimen name="width_item_num">200px</dimen>
+    <dimen name="width_title_common">131px</dimen>
+    <dimen name="width_margin_left">8px</dimen>
+    <dimen name="width_width_title_record">132px</dimen>
+    <dimen name="width_height_title_record">35px</dimen>
+    <dimen name="width_edge_length_record_panel_top_btns">40px</dimen>
+    <dimen name="width_edge_length_record_panel_bottom_record">72px</dimen>
+    <dimen name="width_height_record_panel_bottom">111px</dimen>
+    <dimen name="width_height_record_panel_bottom_music">44px</dimen>
+    <dimen name="width_width_record_panel_bottom_music">38px</dimen>
+    <dimen name="width_width_record_panel_bottom_music_double">76px</dimen>
+    <dimen name="width_height_record_panel_top">62px</dimen>
+    <dimen name="width_height_record_progress">4px</dimen>
+    <dimen name="width_height_record_panel">173px</dimen>
+    <dimen name="width_height_dialog_save">266px</dimen>
+    <dimen name="width_width_dialog_save">355px</dimen>
+    <dimen name="width_height_et_record_save">44px</dimen>
+    <dimen name="width_width_et_record_save">266px</dimen>
+    <dimen name="width_height_top_margin_et_record_save">89px</dimen>
+    <dimen name="width_height_top_margin_dialog_save_btns">35px</dimen>
+    <dimen name="width_height_dialog_save_btns">64px</dimen>
+    <dimen name="width_width_dialog_save_btns">136px</dimen>
+    <dimen name="width_margins_dialog_save_btns">20px</dimen>
+    <dimen name="width_paddings_radio">44px</dimen>
+    <dimen name="width_height_dialog_record_bg_music">306px</dimen>
+    <dimen name="width_width_dialog_record_bg_music">360px</dimen>
+    <dimen name="width_toppadding_dialog_racord_bg_music">58px</dimen>
+    <dimen name="width_height_dialog_record_bg_music_item">38px</dimen>
+    <dimen name="marginlft_regist_button">90px</dimen>
+    <!-- lkt -->
+    <dimen name="width_height_record_item_image">120px</dimen>
+    <dimen name="width_width_record_item_image">480px</dimen>
+    <dimen name="width_26_on_720">17px</dimen>
+    <dimen name="width_13_on_720">8px</dimen>
+    <dimen name="width_height_item_story">102px</dimen>
+    <dimen name="width_edge_len_item_story_title_image">84px</dimen>
+    <dimen name="width_width_item_story_type_image">39px</dimen>
+    <dimen name="width_height_item_story_type_image">30px</dimen>
+    <dimen name="width_width_item_story_mic_image">33px</dimen>
+    <dimen name="width_height_item_story_mic_image">53px</dimen>
+    <dimen name="width_height_top_margin_record_panel_button">13px</dimen>
+    <dimen name="width_width_item_story_play_image">39px</dimen>
+    <dimen name="width_height_item_story_play_image">34px</dimen>
+    <dimen name="width_size_music_play_title">40px</dimen>
+    
+    <dimen name="width_width_book_delete">31px</dimen>
+    <dimen name="width_width_book_delete_l">12px</dimen>
+
+</resources>

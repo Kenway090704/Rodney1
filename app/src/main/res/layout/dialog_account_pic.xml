@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    >
+    
+<TextView 
+    android:id="@+id/tv_localpic"
+    android:layout_width="@dimen/width_item_et"
+    android:layout_height="@dimen/height_item_common"
+    android:text="@string/dialog_account_localpic"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    />
+<TextView 
+    android:id="@+id/tv_takepic"
+    android:layout_width="@dimen/width_item_et"
+    android:layout_height="@dimen/height_item_common"
+    android:text="@string/dialog_account_takepic"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    />
+</LinearLayout>

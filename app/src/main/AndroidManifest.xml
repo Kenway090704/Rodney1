@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iwit.rodney"
+    android:versionCode="2"
+    android:versionName="793APPV4" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <application
+        android:name="com.iwit.rodney.App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:persistent="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ui.activity.HomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.LoadingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.UserCenterActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.SetActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.LoginSuccessActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.SetNewInfoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.RegistActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.SetImgDialog"
+            android:theme="@style/MyDialogStyle" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.TakeImgDialog"
+            android:theme="@style/MyDialogStyle" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.FindPwdActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.ActiveActivity"
+            android:theme="@style/myDialog" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.SetNewPwdActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+`
+        <activity
+            android:name="com.iwit.rodney.ui.activity.CreationActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.MusicHomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.StoryHomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.LibraryActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.FavoriteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.AccountActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.MusicPlayActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity android:name="com.mouee.android.MoueeReader" />
+        <activity
+            android:name="com.iwit.rodney.ui.activity.RecordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.iwit.rodney.ui.activity.ArarmActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" >
+        </activity>
+        
+        <activity
+            android:name="com.iwit.rodney.ui.activity.IntroduceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+
+        <service
+            android:name="com.iwit.rodney.service.MusicManagerService"
+            android:exported="true" >
+        </service>
+
+        <provider
+            android:name="com.iwit.rodney.downloader.provider.DownloadProvider"
+            android:authorities="com.iwit.rodney.downloader.provider.DownloadProvider" >
+        </provider>
+
+        <service android:name="com.iwit.rodney.downloader.provider.AppDownloadService" />
+
+        <receiver android:name="com.iwit.rodney.receiver.BlueToothReceiver" >
+            <intent-filter>
+                <action android:name="android.bluetooth.device.action.ACL_CONNECTED" >
+                </action>
+                <action android:name="android.bluetooth.device.action.ACL_DISCONNECTED" >
+                </action>
+                <action android:name="android.bluetooth.device.action.FOUND" >
+                </action>
+                <action android:name="android.bluetooth.device.action.ACL_DISCONNECT_REQUESTED" >
+                </action>
+                <action android:name="android.bluetooth.device.action.BOND_STATE_CHANGED" >
+                </action>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.iwit.rodney.receiver.MediaButtonIntentReceiver"
+            android:enabled="true" >
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

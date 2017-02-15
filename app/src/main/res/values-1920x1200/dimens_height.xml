@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="height_music_item">165px</dimen>
+     <dimen name="height_creation_title">80px</dimen>
+    <dimen name="height_navigation">140px</dimen>
+    <!-- qh add -->
+    <dimen name="height_common_music_frame">192px</dimen>
+    <dimen name="height_common_music_pannel">240px</dimen>
+    <dimen name="height_music_home_title">96px</dimen>
+    <dimen name="height_title_bg">160px</dimen>
+    <dimen name="margintop_music_item">15px</dimen>
+    <!-- qh end -->
+    <dimen name="height_title_common">80px</dimen>
+    <dimen name="height_title_divide">10px</dimen>
+    <dimen name="height_item_common">200px</dimen>
+    <dimen name="height_item_divide">30px</dimen>
+    <dimen name="height_item_pic">80px</dimen>
+    <dimen name="height_loading_earth">2760px</dimen>
+    
+    <dimen name="height_loading_surper">1216px</dimen>
+    <dimen name="margintop_loading_earth">-919px</dimen>
+    <dimen name="margintop_loading_logo">69px</dimen>
+    <dimen name="margintop_loading_surper">69px</dimen>
+    <dimen name="height_home_logo">192px</dimen>
+    <dimen name="height_home_title">159px</dimen>
+    <dimen name="height_home_introduce">679px</dimen>
+    <dimen name="height_home_point_contaniner">37px</dimen>
+    <dimen name="height_home_point">27px</dimen>
+    <!--  change  -->
+    <dimen name="height_home_button_music">287px</dimen>
+    <dimen name="height_home_button_create">281px</dimen>
+    <dimen name="height_home_button_library">286px</dimen>
+    <dimen name="height_home_button_favorite">286px</dimen>
+    <dimen name="height_loading_logo">323px</dimen>
+    <!--  change -->
+    
+    <dimen name="height_home_button_story">307px</dimen>
+    <dimen name="height_home_button_account">271px</dimen>
+    <dimen name="height_common_music_icon">150px</dimen>
+    <dimen name="textSize_common_music_name">60px</dimen>
+    <dimen name="textSize_common_music_type">48px</dimen>
+    <dimen name="height_frame_search">121px</dimen>
+    <dimen name="height_item_comm">137px</dimen>
+
+    
+    
+	<dimen name="height_desc">598px</dimen>
+	<dimen name="height_common_music_icon_frame">157px</dimen>
+</resources>

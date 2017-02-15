@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/selector_bg_textradio"
+    android:button="@null"
+    android:gravity="center"
+    android:textSize="@dimen/textSize_common_music_name"
+    android:text="故事书"
+    android:textColor="@drawable/selector_textcolor_textradio" />

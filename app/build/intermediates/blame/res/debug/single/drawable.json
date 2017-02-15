@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/listen_progress_bg.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/listen_progress_bg.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_radio.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_radio.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/guide_background.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/guide_background.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_btn_record_rerecord.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_btn_record_rerecord.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/account_edittext_short.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/account_edittext_short.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/account_bn_blue_short.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/account_bn_blue_short.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/github_loading_outer.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/github_loading_outer.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/animation_ararm.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/animation_ararm.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_btn_record_save.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_btn_record_save.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_btn_record_record.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_btn_record_record.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_bg_textradio.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_bg_textradio.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/shape_edit_style.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/shape_edit_style.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_btn_record_listen.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_btn_record_listen.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_textcolor_textradio.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_textcolor_textradio.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/account_bn_orange_short.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/account_bn_orange_short.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/seekbar_time.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/seekbar_time.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_boy.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_boy.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/github_loading_inner.png",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/github_loading_inner.png"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_girl.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_girl.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/dialog_style.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/dialog_style.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_bg_edit_story_name.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_bg_edit_story_name.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/rotate_loading_github.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/rotate_loading_github.xml"
+    },
+    {
+        "merged": "/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/res/merged/debug/drawable/selector_btn_sent.xml",
+        "source": "/Users/xiaokai/Documents/project/Rodney1/app/src/main/res/drawable/selector_btn_sent.xml"
+    }
+]

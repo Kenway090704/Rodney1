@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66933f8ae4bc5b4065a474ae8537af6efe6543d6">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9fbf8555df7b31827e61f0e683dbbd4016e398f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b193fc7f0efa15a487d08158650eb8a7cd78d16e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="783127c8b1d23b84cccc3dc776ca4637d4aba900">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.0.1_85e8eb164931f565c5a7d6966420feb94280cfa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_15e50bfc60381386b2ecd5b55d1904c181738ed5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67fc2737973c4e5c2c5fc828d892cda204461299">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01ded9f9ced406eb875e27a7bb119faa9a954353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_184deafe9d971ce72685e35dc3f9e8d204e589d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_47012c55d1297e32b3947c2860eb6a732456bb90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_021489abf7081d733c4e80d2247d13eabfa79248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_306f4ffbff312091641dcc7313df42df67021594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_4bd5aa881db69c31a0178b7132beb7ccc33d4f31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_aa9a7e0c5b1928cc8def40a0c80107e752db614e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_973973f8c02583172c441e68c2a24746dd42bde9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_535f4ca3e721cc26913494fe76ca4460417024c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/libs/commons-lang-2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang-2.6_41e6e1eef5d8726d450ce4767e23736df3787722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_0f2af51e2d4f00d43068ac2d81b8015c99b4b14b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_cebe02ff4e7a687d44eb2932ac2c33bffb4ddef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/libs/android-async-http-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.5_e86445788af40a37d657938f6fb667ecd31f29c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2c97ee5d55363401b26273e8a4d0e9a0277b16cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_392081c710fc43dbe777e6c77579cc5c10c8640e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_e45e9826b0665ff76c28db58a68bbaa4009862f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_ad5ad0d0260b4a7b58215dcbdbe0ab0bbc04d918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/libs/android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ab9cdfed741163aeb58ce8d1dbb8d68bcce68ff">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v7-recyclerview_af2d21680c6a7bbfad473c763432c3f05d0b3c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/xiaokai/Documents/project/Rodney1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6583fd942c5e0a63bb136368b5d49b51881ca04b/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_creation"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_title_bg"
+        android:background="@drawable/bg_navigation" >
+
+       <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/width_margin_left"
+            android:src="@drawable/ic_common_back" />
+
+        <ImageView
+            android:layout_width="@dimen/width_creation_title"
+            android:layout_height="@dimen/height_creation_title"
+            android:layout_centerInParent="true"
+            android:src="@drawable/title_creation"
+            tools:ignore="ContentDescription" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_navigation"
+        android:orientation="horizontal" >
+
+        <include
+            android:id="@+id/radio_record"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            layout="@layout/textradio" />
+
+        <include
+            android:id="@+id/radio_song"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            layout="@layout/textradio" />
+
+        <include
+            android:id="@+id/radio_mine"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            layout="@layout/textradio" />
+    </RadioGroup>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_creation"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_common_music_frame"
+        layout="@layout/item_common_music_state"
+        android:background="@color/test" />
+
+</LinearLayout>
